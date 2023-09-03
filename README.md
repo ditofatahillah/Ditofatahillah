@@ -27,13 +27,11 @@
 
 <!--Intro start-->
 
-- 🌍I'm Based in Surabaya, Indonesia
-
-- 🔭 I’m currently working as freelance on my own 
-
-- 🌱 I’m currently computer science student at **UPN VETERAN JAWA TIMUR**
-
-- ✉️ Feel free to reach me out [ditofatahillah1@gmail.com](mailto:ditofatahillah1@gmail.com)
+- 🌍  I'm Based in Surabaya, Indonesia
+- 🔭  I’m currently working as freelance on my own 
+- 🌱  I’m currently computer science student at **UPN VETERAN JAWA TIMUR**
+- ✉️  Feel free to reach me out [ditofatahillah1@gmail.com](mailto:ditofatahillah1@gmail.com)
+- 🤝  I'm open to collaborating on Company Project
 
 <!--Intro end-->
 
@@ -70,7 +68,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html5,css,php,bootstrap,vscode,ae,pr,ai,ps,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,php,bootstrap,vscode,ae,pr,ai,ps,figma&perline=14" />
   </a>
 </p>
 
