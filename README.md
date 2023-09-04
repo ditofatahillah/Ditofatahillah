@@ -31,7 +31,7 @@
 - 🔭  I’m currently working as freelance on my own 
 - 🌱  I’m currently computer science student at **UPN VETERAN JAWA TIMUR**
 - ✉️  Feel free to reach me out [ditofatahillah1@gmail.com](mailto:ditofatahillah1@gmail.com)
-- 🤝  I'm open to collaborating on Company Project
+- 🤝  I'm open to collaborating on any Project
 
 <!--Intro end-->
 
