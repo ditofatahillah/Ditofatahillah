@@ -30,7 +30,7 @@
 - 🌍  I'm Based in Surabaya, Indonesia
 - 🔭  I’m currently working as freelance on my own 
 - 🌱  I’m currently computer science student at **UPN VETERAN JAWA TIMUR**
-- ✉️  Feel free to reach me out [ditofatahillah1@gmail.com](mailto:ditofatahillah1@gmail.com)
+- ✉️  Feel free to reach me out [ditofatahillah@mimoricorp.com](mailto:ditofatahillah@mimoricorp.com)
 - 🤝  I'm open to collaborating on any Project
 
 <!--Intro end-->
